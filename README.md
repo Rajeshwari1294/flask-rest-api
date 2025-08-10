@@ -12,5 +12,5 @@ A simple REST API built with Flask to manage user data using in-memory storage.
 ## 🛠 Installation
 1. Clone the repository
    ```bash
-   git clone <>
+   git clone <https://github.com/Rajeshwari1294/flask-rest-api.git>
    cd flask-rest-api
